@@ -1,4 +1,0 @@
-{
-  // این ربات Mini App ندارد؛ فقط هندلرهای message و callback_query.
-  "$schema": "./node_modules/@tgcloud/cli/schema/tgcloud.json"
-}
